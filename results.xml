@@ -1,0 +1,9 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1765003236" />
+    <testcase name="run_csv_test_001" classname="test_gmsk_precoder" file="/home/sasindu/cocotb_venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="727" time="0.09066104888916016" sim_time_ns="6950.000001" ratio_time="76659.16163728581" />
+    <testcase name="run_csv_test_002" classname="test_gmsk_precoder" file="/home/sasindu/cocotb_venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="727" time="0.10692501068115234" sim_time_ns="7280.000001" ratio_time="68085.0995910468" />
+    <testcase name="run_csv_test_003" classname="test_gmsk_precoder" file="/home/sasindu/cocotb_venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="727" time="0.09590721130371094" sim_time_ns="6950.000001" ratio_time="72465.8751570966" />
+    <testcase name="run_csv_test_004" classname="test_gmsk_precoder" file="/home/sasindu/cocotb_venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="727" time="0.11931729316711426" sim_time_ns="7200.000001" ratio_time="60343.3065726338" />
+  </testsuite>
+</testsuites>
